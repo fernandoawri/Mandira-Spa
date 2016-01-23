@@ -254,7 +254,7 @@ html, body {
 }
 #logo
 {
-	background-image: url("../images/logo2.png");
+	background-image: url("../images/logoNav.png");
 	background-repeat: no-repeat;
 	background-size: 80% 80%;
 	width: 150px;
@@ -389,6 +389,7 @@ a:hover.slidesjs-stop {
 }
 .picture {
 	display: block;
+  width: 100%;
 	max-width: 100%;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
